@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Currently Mobile offers are avilable 1+1 Iphone 14</h1>   
+         <h1>Malli has purchased 14 pro max </h1>   
 	 
 
     </section>    
